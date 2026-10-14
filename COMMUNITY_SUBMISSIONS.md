@@ -22,7 +22,7 @@ Each row links directly to a self-contained workshop edition. The English first-
 | organize | Task 3 Workshop: Predict the Perturbation Response (English) | https://github.com/random-guy-05/vec-workshop-series/blob/main/workshops/t3-perturbation/en.md |
 | expand | Taller Task 3: predecir la respuesta a una perturbación (español) | https://github.com/random-guy-05/vec-workshop-series/blob/main/workshops/t3-perturbation/es.md |
 | expand | Task 3 工作坊：预测扰动响应（简体中文） | https://github.com/random-guy-05/vec-workshop-series/blob/main/workshops/t3-perturbation/zh-CN.md |
-| expand | Atelier Task 3 : prédire la réponse à une perturbation (français) | https://github.com/random-guy-05/vec-workshop-series/blob/main/workshops/t3-perturbation/fr.md |
+| expand | Atelier Task 3 : réponse à une perturbation (français) | https://github.com/random-guy-05/vec-workshop-series/blob/main/workshops/t3-perturbation/fr.md |
 | expand | Task 3 ワークショップ：摂動応答を予測する（日本語） | https://github.com/random-guy-05/vec-workshop-series/blob/main/workshops/t3-perturbation/ja.md |
 | expand | Task 3 워크숍: perturbation 반응 예측하기 (한국어) | https://github.com/random-guy-05/vec-workshop-series/blob/main/workshops/t3-perturbation/ko.md |
 | expand | Oficina Task 3: resposta à perturbação (português do Brasil) | https://github.com/random-guy-05/vec-workshop-series/blob/main/workshops/t3-perturbation/pt-BR.md |
