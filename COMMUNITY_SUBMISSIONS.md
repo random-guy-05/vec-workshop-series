@@ -4,8 +4,8 @@ Each row links directly to a self-contained workshop edition. The English first-
 
 | Kind | Title | Public link |
 |---|---|---|
-| expand | VEC peer workshop: reproducible first workflow (Spanish) | https://github.com/random-guy-05/vec-workshop-series/blob/main/workshops/first-workflow/es.md |
-| expand | VEC 同伴工作坊：启动可复现的工作流程（简体中文） | https://github.com/random-guy-05/vec-workshop-series/blob/main/workshops/first-workflow/zh-CN.md |
+| expand | VEC Peer Workshop — reproducible first workflow (Español) | https://github.com/random-guy-05/vec-workshop-series/blob/main/workshops/first-workflow/es.md |
+| expand | VEC 同伴工作坊：可复现的起步流程（简体中文） | https://github.com/random-guy-05/vec-workshop-series/blob/main/workshops/first-workflow/zh-CN.md |
 | expand | Atelier VEC entre pairs : flux reproductible (français) | https://github.com/random-guy-05/vec-workshop-series/blob/main/workshops/first-workflow/fr.md |
 | expand | VEC सहकर्मी कार्यशाला: दोहराने योग्य कार्यप्रवाह (हिंदी) | https://github.com/random-guy-05/vec-workshop-series/blob/main/workshops/first-workflow/hi.md |
 | expand | VEC ピアワークショップ：再現可能なワークフロー（日本語） | https://github.com/random-guy-05/vec-workshop-series/blob/main/workshops/first-workflow/ja.md |
@@ -25,6 +25,6 @@ Each row links directly to a self-contained workshop edition. The English first-
 | expand | Atelier Task 3 : prédire la réponse à une perturbation (français) | https://github.com/random-guy-05/vec-workshop-series/blob/main/workshops/t3-perturbation/fr.md |
 | expand | Task 3 ワークショップ：摂動応答を予測する（日本語） | https://github.com/random-guy-05/vec-workshop-series/blob/main/workshops/t3-perturbation/ja.md |
 | expand | Task 3 워크숍: perturbation 반응 예측하기 (한국어) | https://github.com/random-guy-05/vec-workshop-series/blob/main/workshops/t3-perturbation/ko.md |
-| expand | Oficina Task 3: prever a resposta à perturbação (português do Brasil) | https://github.com/random-guy-05/vec-workshop-series/blob/main/workshops/t3-perturbation/pt-BR.md |
+| expand | Oficina Task 3: resposta à perturbação (português do Brasil) | https://github.com/random-guy-05/vec-workshop-series/blob/main/workshops/t3-perturbation/pt-BR.md |
 
 All editions are static Markdown and can be read in a browser or printed. Follow each guide's timing and prompts; check the current official pages before running it. No software is needed.
