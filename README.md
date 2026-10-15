@@ -5,8 +5,8 @@ Self-contained, low-barrier workshop guides for groups learning the Virtual Embr
 ## Sessions
 
 - [English first-workflow kit](https://github.com/random-guy-05/vec-workshop-kit) — find a resource, interpret evidence, screen a data proposal, and plan a reproducible run. Translations in this repository: Spanish, Simplified Chinese, French, Hindi, Japanese, Korean, Brazilian Portuguese, and Arabic.
-- [`t2-spatial/en`](workshops/t2-spatial/en.md) — reason about Task 2's interpolation and extrapolation settings, three prediction scales, and per-embryo coordinate frames. Translations: Spanish, Simplified Chinese, French, Japanese, Korean, and Brazilian Portuguese.
-- [`t3-perturbation/en`](workshops/t3-perturbation/en.md) — reason about matched wild-type references, perturbation response, and held-out conditions. Translations: Spanish, Simplified Chinese, French, Japanese, Korean, and Brazilian Portuguese.
+- [`t2-spatial/en`](workshops/t2-spatial/en.md) — reason about Task 2's interpolation and extrapolation settings, three prediction scales, and per-embryo coordinate frames. Translations: Spanish, Simplified Chinese, French, Japanese, Korean, Brazilian Portuguese, German, Italian, and Turkish.
+- [`t3-perturbation/en`](workshops/t3-perturbation/en.md) — reason about matched wild-type references, perturbation response, and held-out conditions. Translations: Spanish, Simplified Chinese, French, Japanese, Korean, Brazilian Portuguese, German, Italian, and Turkish.
 
 ## Use
 
