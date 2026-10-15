@@ -28,3 +28,16 @@ Each row links directly to a self-contained workshop edition. The English first-
 | expand | Oficina Task 3: resposta à perturbação (português do Brasil) | https://github.com/random-guy-05/vec-workshop-series/blob/main/workshops/t3-perturbation/pt-BR.md |
 
 All editions are static Markdown and can be read in a browser or printed. Follow each guide's timing and prompts; check the current official pages before running it. No software is needed.
+
+## Additional language editions
+
+| Kind | Title | Public link |
+|---|---|---|
+| expand | Lokakarya VEC bersama rekan: Memulai Alur Kerja yang Dapat Direproduksi (Bahasa Indonesia) | https://github.com/random-guy-05/vec-workshop-series/blob/main/workshops/first-workflow/id.md |
+| expand | Hội thảo VEC cùng đồng nghiệp: Bắt đầu với quy trình có thể tái lập (Tiếng Việt) | https://github.com/random-guy-05/vec-workshop-series/blob/main/workshops/first-workflow/vi.md |
+| expand | Lokakarya Task 1: Memprediksi Populasi Sel yang Berubah (Bahasa Indonesia) | https://github.com/random-guy-05/vec-workshop-series/blob/main/workshops/t1-temporal/id.md |
+| expand | Hội thảo Task 1: Dự đoán quần thể tế bào đang thay đổi (Tiếng Việt) | https://github.com/random-guy-05/vec-workshop-series/blob/main/workshops/t1-temporal/vi.md |
+| expand | Lokakarya Task 2: Menalar Ruang dan Waktu (Bahasa Indonesia) | https://github.com/random-guy-05/vec-workshop-series/blob/main/workshops/t2-spatial/id.md |
+| expand | Hội thảo Task 2: Suy luận về không gian và thời gian (Tiếng Việt) | https://github.com/random-guy-05/vec-workshop-series/blob/main/workshops/t2-spatial/vi.md |
+| expand | Lokakarya Task 3: Memprediksi Respons Perturbasi (Bahasa Indonesia) | https://github.com/random-guy-05/vec-workshop-series/blob/main/workshops/t3-perturbation/id.md |
+| expand | Hội thảo Task 3: Dự đoán phản ứng với perturbation (Tiếng Việt) | https://github.com/random-guy-05/vec-workshop-series/blob/main/workshops/t3-perturbation/vi.md |

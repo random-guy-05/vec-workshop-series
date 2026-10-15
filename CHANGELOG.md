@@ -1,5 +1,11 @@
 # Changelog
 
+## 1.1.0 — 2026-10-14
+
+- Add Indonesian and Vietnamese editions for first-workflow onboarding and the Task 1, Task 2, and Task 3 workshops.
+- Keep task identifiers, equations, fictional values, and official Challenge links aligned with the English source editions.
+- Make the two new language routes available to the VEC Pathway Builder.
+
 ## 1.0.0 — 2026-10-14
 
 - Add Task 2 and Task 3 facilitator workshops, each with exercises, answer keys, and participant prompts.

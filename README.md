@@ -4,10 +4,10 @@ Self-contained, low-barrier workshop guides for groups learning the Virtual Embr
 
 ## Sessions
 
-- [English first-workflow kit](https://github.com/random-guy-05/vec-workshop-kit) — find a resource, interpret evidence, screen a data proposal, and plan a reproducible run. Translations in this repository: Spanish, Simplified Chinese, French, Hindi, Japanese, Korean, Brazilian Portuguese, Arabic, German, Italian, and Turkish.
-- [`t1-temporal/en`](workshops/t1-temporal/en.md) — reason about temporal gene-expression distributions, changing cell-state mixtures, and the limits of pseudobulk summaries. Translations: German, Italian, Turkish, Spanish, Simplified Chinese, French, Japanese, Korean, Brazilian Portuguese, Hindi, and Arabic.
-- [`t2-spatial/en`](workshops/t2-spatial/en.md) — reason about Task 2's interpolation and extrapolation settings, three prediction scales, and per-embryo coordinate frames. Translations: Spanish, Simplified Chinese, French, Japanese, Korean, Brazilian Portuguese, German, Italian, Turkish, Hindi, and Arabic.
-- [`t3-perturbation/en`](workshops/t3-perturbation/en.md) — reason about matched wild-type references, perturbation response, and held-out conditions. Translations: Spanish, Simplified Chinese, French, Japanese, Korean, Brazilian Portuguese, German, Italian, Turkish, Hindi, and Arabic.
+- [English first-workflow kit](https://github.com/random-guy-05/vec-workshop-kit) — find a resource, interpret evidence, screen a data proposal, and plan a reproducible run. Translations in this repository: Spanish, Simplified Chinese, French, Hindi, Japanese, Korean, Brazilian Portuguese, Arabic, German, Italian, Turkish, Indonesian, and Vietnamese.
+- [`t1-temporal/en`](workshops/t1-temporal/en.md) — reason about temporal gene-expression distributions, changing cell-state mixtures, and the limits of pseudobulk summaries. Translations: German, Italian, Turkish, Spanish, Simplified Chinese, French, Japanese, Korean, Brazilian Portuguese, Hindi, Arabic, Indonesian, and Vietnamese.
+- [`t2-spatial/en`](workshops/t2-spatial/en.md) — reason about Task 2's interpolation and extrapolation settings, three prediction scales, and per-embryo coordinate frames. Translations: Spanish, Simplified Chinese, French, Japanese, Korean, Brazilian Portuguese, German, Italian, Turkish, Hindi, Arabic, Indonesian, and Vietnamese.
+- [`t3-perturbation/en`](workshops/t3-perturbation/en.md) — reason about matched wild-type references, perturbation response, and held-out conditions. Translations: Spanish, Simplified Chinese, French, Japanese, Korean, Brazilian Portuguese, German, Italian, Turkish, Hindi, Arabic, Indonesian, and Vietnamese.
 
 ## Use
 
